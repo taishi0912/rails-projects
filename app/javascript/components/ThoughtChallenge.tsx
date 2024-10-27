@@ -441,20 +441,20 @@ const ThoughtChallenge: React.FC = () => {
       { subject: "数学", total: 6, correct: 4 }
     ],
     dailyProgress: [
-      { date: '10/20', correctRate: 65 },
-      { date: '10/21', correctRate: 68 },
-      { date: '10/22', correctRate: 72 },
-      { date: '10/23', correctRate: 70 },
-      { date: '10/24', correctRate: 75 },
-      { date: '10/25', correctRate: 73 },
-      { date: '10/26', correctRate: 78 },
-      { date: '10/27', correctRate: 76 },
-      { date: '10/28', correctRate: 80 },
-      { date: '10/29', correctRate: 82 },
-      { date: '10/30', correctRate: 79 },
-      { date: '10/31', correctRate: 85 },
-      { date: '11/1', correctRate: 83 },
-      { date: '11/2', correctRate: 88 }
+      { date: '10/13', correctRate: 65 },
+      { date: '10/14', correctRate: 68 },
+      { date: '10/15', correctRate: 72 },
+      { date: '10/16', correctRate: 70 },
+      { date: '10/17', correctRate: 75 },
+      { date: '10/18', correctRate: 73 },
+      { date: '10/19', correctRate: 78 },
+      { date: '10/20', correctRate: 76 },
+      { date: '10/21', correctRate: 80 },
+      { date: '10/22', correctRate: 82 },
+      { date: '10/23', correctRate: 79 },
+      { date: '10/24', correctRate: 85 },
+      { date: '10/25', correctRate: 83 },
+      { date: '10/26', correctRate: 88 }
     ]
   });
 

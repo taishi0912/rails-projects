@@ -138,7 +138,7 @@ const LoadingAnimation: React.FC<LoadingAnimationProps> = ({ onLoadingComplete }
 
       {/* アニメーション説明テキスト */}
       <div className="absolute bottom-8 text-center text-gray-400 text-sm">
-        <p className="mb-2">DNA構造解析中...</p>
+        <p className="mb-2">思考力構造解析中...</p>
         <p>量子演算処理を実行しています</p>
       </div>
     </div>
